@@ -3,8 +3,7 @@
 
 # 🚀 Project Overview
 
-This project analyzes customer churn behavior for Orange Telecom using Power BI.
-The goal is to uncover key factors driving customer attrition and provide actionable insights to improve retention strategies.
+This project was developed as part of the Codeant Technology Hub – Talent Pool Mentorship Program and It focuses on data-driven analysis of customer churn behavior for Orange Telecom using Power BI.The goal is to uncover key factors driving customer attrition and provide actionable insights to improve retention strategies.
 
 The dashboard focuses on two major areas:
 
