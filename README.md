@@ -1,6 +1,7 @@
 # Orange-Telecom-Churn-Analysis-Dashboard
+![](download1.jfif)
 
-🚀 Project Overview
+# 🚀 Project Overview
 
 This project analyzes customer churn behavior for Orange Telecom using Power BI.
 The goal is to uncover key factors driving customer attrition and provide actionable insights to improve retention strategies.
@@ -11,7 +12,8 @@ The dashboard focuses on two major areas:
 
 📈 Plan & Usage Drivers
 
-🎯 Objectives
+# 🎯 Objectives
+![](download3.jfif)
 
 Identify the impact of customer service interactions on churn
 
@@ -21,24 +23,26 @@ Evaluate usage patterns and revenue behavior of churned customers
 
 Detect high-risk customer segments for proactive retention
 
-📂 Dataset Description
+# 📂 Dataset Description
 
 The dataset contains 2,666 customers with features such as:
 
-Customer service calls
+- Customer service calls
 
-Call usage (day, evening, night, international)
+- Call usage (day, evening, night, international)
 
-Charges and billing information
+- Charges and billing information
 
-Plan subscriptions (International & Voice Mail)
+- Plan subscriptions (International & Voice Mail)
 
-Account length (tenure)
+- Account length (tenure)
 
-Churn status (Target variable)
+- Churn status (Target variable)
 
-📊 Dashboard Structure
-1️⃣ Customer Service Performance Dashboard
+# 📊 Dashboard Structure
+### 1️⃣ Customer Service Performance Dashboard
+![](Orange_dashboard.jpg)
+
 Key KPIs
 
 Total Customers: 2,666
@@ -51,133 +55,122 @@ Avg Customer Service Calls: 1.56
 
 ARPU: $59.4
 
-Key Visuals
+### Key Visuals
 
-Churn vs Average Service Calls
+- Churn vs Average Service Calls
 
-Critical Call Threshold Analysis
+- Critical Call Threshold Analysis
 
-Customer Service Calls vs Churn Distribution
+- Customer Service Calls vs Churn Distribution
 
-Geographic Service Problem Areas
+- Geographic Service Problem Areas
 
-2️⃣ Plan & Usage Drivers Dashboard
-Key Visuals
+# 2️⃣ Plan & Usage Drivers Dashboard
+![](orange_dashboard2.jpg)
 
-Churn by International Plan
+### Key Visuals
 
-Voice Mail Plan vs Churn
+- Churn by International Plan
 
-Tenure vs Churn Trend
+- Voice Mail Plan vs Churn
 
-Revenue vs Churn
+- Tenure vs Churn Trend
 
-Usage Pattern Analysis
+- Revenue vs Churn
+
+### Usage Pattern Analysis
 
 🔍 Key Insights
 📞 Customer Service Impact
 
-Churned customers make more service calls (2.21 vs 1.45)
+- Churned customers make more service calls (2.21 vs 1.45)
 
-High call frequency strongly correlates with churn
+- High call frequency strongly correlates with churn
 
-A critical threshold (3+ calls) signals high churn risk
+- A critical threshold (3+ calls) signals high churn risk
 
-🌍 Geographic Insights
+### 🌍 Geographic Insights
 
-Certain states show higher churn and service call rates
+- Certain states show higher churn and service call rates
 
-Indicates regional service quality issues
+- Indicates regional service quality issues
 
-📦 Plan Subscription Insights
+### 📦 Plan Subscription Insights
 
-Customers with International Plans churn more
+- Customers with International Plans churn more
 
-Customers with Voice Mail Plans churn less
+- Customers with Voice Mail Plans churn less
 
-💰 Revenue Insights
+### 💰 Revenue Insights
 
-Churned customers generate higher revenue (~$65 vs $58)
+- Churned customers generate higher revenue (~$65 vs $58)
 
-Indicates loss of high-value customers
+- Indicates loss of high-value customers
 
-📈 Usage Behavior
+### 📈 Usage Behavior
 
-Heavy users (higher minutes & charges) are more likely to churn
+- Heavy users (higher minutes & charges) are more likely to churn
 
-Suggests price sensitivity or dissatisfaction
+- Suggests price sensitivity or dissatisfaction
 
-⏳ Tenure Analysis
+### ⏳ Tenure Analysis
 
-Churn increases with tenure in later stages
+- Churn increases with tenure in later stages
 
-Indicates long-term retention challenges
+- Indicates long-term retention challenges
 
-📌 Business Recommendations
-1. Improve Customer Service
+# 📌 Business Recommendations
+![](download2.jfif)
 
-Resolve issues within 1–2 interactions
+### 1. Improve Customer Service
 
-Escalate cases after 3 calls
+- Resolve issues within 1–2 interactions
 
-2. Build Churn Prediction System
+- Escalate cases after 3 calls
 
-Flag customers with:
+### 2. Build Churn Prediction System
 
-High service calls
+- Flag customers with:
 
-High usage
+- High service calls
 
-Trigger early retention actions
+- High usage
 
-3. Optimize Pricing Strategy
+- Trigger early retention actions
 
-Reassess International Plan pricing
+### 3. Optimize Pricing Strategy
 
-Benchmark against competitors
+- Reassess International Plan pricing
 
-4. Promote Retention Features
+- Benchmark against competitors
 
-Encourage Voice Mail Plan adoption
+### 4. Promote Retention Features
 
-Bundle with other services
+- Encourage Voice Mail Plan adoption
 
-5. Retain High-Value Customers
+- Bundle with other services
 
-Introduce loyalty rewards
+### 5. Retain High-Value Customers
 
-Offer personalized incentives
+- Introduce loyalty rewards
 
-6. Fix Regional Issues
+- Offer personalized incentives
 
-Investigate high-churn states
+### 6. Fix Regional Issues
 
-Improve infrastructure and support
+- Investigate high-churn states
 
-🛠 Tools & Technologies
+- Improve infrastructure and support
 
-Power BI – Dashboard development
+# 🛠 Tools & Technologies
 
-DAX – Measures and calculations
+- Power BI – Dashboard development
 
-Power Query – Data transformation
+- DAX – Measures and calculations
 
-📸 Dashboard Preview
+- Power Query – Data transformation
 
-(Insert screenshots here)
 
-📈 Project Value
+# 🔗 Author
 
-This project demonstrates:
-
-End-to-end data analysis workflow
-
-Business-focused insight generation
-
-Ability to translate data into strategic decisions
-
-Strong Power BI dashboard design skills
-
-🔗 Author
-
-Christopher Stanley Obinna
+## Christopher Stanley Obinna
